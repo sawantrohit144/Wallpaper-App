@@ -1,16 +1,5 @@
-# wallpaper_app
+# Wallpaper App
+This is an wallpaper app which is android app build using Flutter and Dart. App contain wallpaper these wallpapers are separated in different categories like animals, birds, cars, etc. The UI is very simple and easy to understand. 
 
-A new Flutter project.
+This project was developed during INTERNSHIP. This was the MAJOR Project give by the company(VERZEO Edutech Pvt. Ltd.) named as Wallpaper App.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
