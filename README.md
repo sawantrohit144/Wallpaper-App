@@ -3,3 +3,4 @@ This is an wallpaper app which is android app build using Flutter and Dart. App 
 
 This project was developed during INTERNSHIP. This was the MAJOR Project give by the company(VERZEO Edutech Pvt. Ltd.) named as Wallpaper App.
 
+<img align="right" alt="Coding" width="400" src="https://github.com/sawantrohit144/Wallpaper-App/blob/main/Major%20Project%20Decription.PNG">
